@@ -1,0 +1,10 @@
+C:\Users\polma_x7zuynn\source\repos\tictactoe\tictactoe\Debug\tictactoe.vcxprojAssemblyReference.cache
+C:\Users\polma_x7zuynn\source\repos\tictactoe\tictactoe\Debug\tictactoe.MyForm.resources
+C:\Users\polma_x7zuynn\source\repos\tictactoe\tictactoe\Debug\tictactoe.vcxproj.GenerateResource.cache
+C:\Users\polma_x7zuynn\source\repos\tictactoe\tictactoe\Debug\tictactoe.autor.resources
+C:\Users\polma_x7zuynn\source\repos\tictactoe\tictactoe\Debug\tictactoe.jakgrac.resources
+C:\Users\polma_x7zuynn\OneDrive\Pulpit\tictactoe\tictactoe\Debug\tictactoe.vcxprojAssemblyReference.cache
+C:\Users\polma_x7zuynn\OneDrive\Pulpit\tictactoe\tictactoe\Debug\tictactoe.autor.resources
+C:\Users\polma_x7zuynn\OneDrive\Pulpit\tictactoe\tictactoe\Debug\tictactoe.jakgrac.resources
+C:\Users\polma_x7zuynn\OneDrive\Pulpit\tictactoe\tictactoe\Debug\tictactoe.MyForm.resources
+C:\Users\polma_x7zuynn\OneDrive\Pulpit\tictactoe\tictactoe\Debug\tictactoe.vcxproj.GenerateResource.cache
